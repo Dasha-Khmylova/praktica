@@ -14,7 +14,7 @@ function solution(number) {
     }
     return sum;
 }
-console.log(solution(10));  // Returns 23 (3 + 5 + 6 + 9)
-console.log(solution(7));  // Returns 78
-console.log(solution(-5));  // Returns 0
-console.log(solution(0));   // Returns 0
+console.log(solution(10)); 
+console.log(solution(7)); 
+console.log(solution(-5)); 
+console.log(solution(0)); 
